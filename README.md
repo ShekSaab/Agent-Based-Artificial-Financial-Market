@@ -4,7 +4,7 @@ An artificial financial market simulation exploring the interactions between Zer
 ## Project Overview
 This project simulates a continuous double-auction artificial financial market to study the interaction between **Zero-Intelligence Traders (ZIT)** and **Reinforcement Learning (RL)** agents. We analyze how market composition (regulated by the parameter $\omega$) affects price stability and the emergence of market stylized facts.
 
-## Key Research Areas
+## Key Areas
 
 ### 1. Market Composition ($\omega$) Analysis
 [cite_start]We explored three distinct market regimes:
